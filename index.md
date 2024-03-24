@@ -9,6 +9,7 @@
 In this project, the potential of LSTM usage for wind power forecasting was investigated.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
+
 <img src="images/fig1.jpg?raw=true"/>
 
 ---
