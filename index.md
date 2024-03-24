@@ -5,6 +5,9 @@
 ### Scientific Projects 
 
 [Data-driven applications for wind energy analysis and prediction: The case of “La Haute Borne” wind farm]([/sample_page](https://www.sciencedirect.com/science/article/pii/S2772508122000382))
+In this project, the potential of LSTM usage for wind power forecasting was investigated.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
 <img src="images/fig1.jpg?raw=true"/>
 
 ---
