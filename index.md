@@ -4,7 +4,7 @@
 
 ### Scientific Projects 
 
-[Data-driven applications for wind energy analysis and prediction: The case of “La Haute Borne” wind farm]([/sample_page](https://www.sciencedirect.com/science/article/pii/S2772508122000382))
+[Data-driven applications for wind energy analysis and prediction: The case of “La Haute Borne” wind farm](https://www.sciencedirect.com/science/article/pii/S2772508122000382)
 
 In this project, the potential of LSTM usage for wind power forecasting was investigated.
 
@@ -13,7 +13,7 @@ In this project, the potential of LSTM usage for wind power forecasting was inve
 <img src="images/fig1.jpg?raw=true"/>
 
 ---
-[Practical aspects of absolute permeability finding for the lattice Boltzmann method and pore network modeling]([/sample_page](https://www.sciencedirect.com/science/article/abs/pii/S0378437121005227))
+[Practical aspects of absolute permeability finding for the lattice Boltzmann method and pore network modeling](https://www.sciencedirect.com/science/article/abs/pii/S0378437121005227)
 <img src="images/fig2.jpg?raw=true"/>
 
 ---
