@@ -17,7 +17,7 @@ In this project, the potential of LSTM usage for wind power forecasting was inve
 
 The paper investigates practical aspects of two methods for estimating absolute permeability: lattice Boltzmann method (LBM) and pore network modeling. Some of the image processing processes were done using Python libraries.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Palabos-white?logo=Palabos)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Paraview-white?logo=Paraview)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
 <img src="images/fig2.jpg?raw=true"/>
 
