@@ -23,7 +23,7 @@ The paper investigates practical aspects of two methods for estimating absolute 
 
 ---
 
-### Some of My Medium Posts
+### My Most Popular Medium Posts
 
 - [Practical Tips for Improving Exploratory Data Analysis](https://towardsdatascience.com/practical-tips-for-improving-exploratory-data-analysis-1c43b3484577)
 - [How to Effectively Structure Data Science Projects](https://towardsdatascience.com/how-to-effectively-structure-data-science-projects-85f717e65c75)
