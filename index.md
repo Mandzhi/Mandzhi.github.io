@@ -3,7 +3,6 @@
 ---
 
 ### Main Projects 
-
 1. [Data-driven applications for wind energy analysis and prediction: The case of “La Haute Borne” wind farm](https://www.sciencedirect.com/science/article/pii/S2772508122000382)
 
 In this project, the potential of LSTM usage for wind power forecasting was investigated.
@@ -17,7 +16,6 @@ In this project, the potential of LSTM usage for wind power forecasting was inve
 - [GitHub repo with the Open wind project (with comments and codes)](https://github.com/Mandzhi/Open-wind-project)
 
 ---
-
 2. [Practical aspects of absolute permeability finding for the lattice Boltzmann method and pore network modeling](https://www.sciencedirect.com/science/article/abs/pii/S0378437121005227)
 
 The paper investigates practical aspects of two methods for estimating absolute permeability: lattice Boltzmann method (LBM) and pore network modeling. Some of the image processing processes were done using Python libraries.
@@ -33,8 +31,8 @@ The paper investigates practical aspects of two methods for estimating absolute 
 ---
 
 ### Dashboards
-- [Matplotlib version of the FIFA World Cup dashboard](https://medium.com/geekculture/how-to-customize-infographics-in-python-tips-and-tricks-e1818aac180f)
-- [Plotly version of the FIFA World Cup dashboard](https://medium.com/towards-data-science/creating-a-better-dashboard-myth-or-reality-3d355b03e52c)
+1. [Matplotlib version of the FIFA World Cup dashboard](https://medium.com/geekculture/how-to-customize-infographics-in-python-tips-and-tricks-e1818aac180f)
+2. [Plotly version of the FIFA World Cup dashboard](https://medium.com/towards-data-science/creating-a-better-dashboard-myth-or-reality-3d355b03e52c)
 
 ---
 
@@ -48,7 +46,7 @@ The paper investigates practical aspects of two methods for estimating absolute 
 ---
 
 ### Other files
-1) [An example of the task I wrote for the Shift + Enter virtual internship (in Russian)](https://github.com/simonyelisey/Shift-Enter/blob/main/Problems.docx.pdf)
-2) [One of the Notion files I created with useful resources on how to prepare for hackathons (in Russian)](https://roasted-iron-2d2.notion.site/Hack-Change-2022-by-Changellenge-7b2f2c3d00774ec8b8f786bbe505b92a)
+1. [An example of the task I wrote for the Shift + Enter virtual internship (in Russian)](https://github.com/simonyelisey/Shift-Enter/blob/main/Problems.docx.pdf)
+2. [One of the Notion files I created with useful resources on how to prepare for hackathons (in Russian)](https://roasted-iron-2d2.notion.site/Hack-Change-2022-by-Changellenge-7b2f2c3d00774ec8b8f786bbe505b92a)
 
 ---
