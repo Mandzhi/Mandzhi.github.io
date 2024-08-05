@@ -3,7 +3,8 @@
 ---
 
 ### Main Projects 
-1. [Data-driven applications for wind energy analysis and prediction: The case of “La Haute Borne” wind farm](https://www.sciencedirect.com/science/article/pii/S2772508122000382)
+
+1. **[Data-driven applications for wind energy analysis and prediction: The case of “La Haute Borne” wind farm](https://www.sciencedirect.com/science/article/pii/S2772508122000382)**
 
 In this project, the potential of LSTM usage for wind power forecasting was investigated.
 
@@ -15,8 +16,7 @@ In this project, the potential of LSTM usage for wind power forecasting was inve
 - [Medium post (with code fragments) about EDA and three tips on how to make the process easier (customize → itemize → optimize)](https://towardsdatascience.com/practical-tips-for-improving-exploratory-data-analysis-1c43b3484577)
 - [GitHub repo with the Open wind project (with comments and codes)](https://github.com/Mandzhi/Open-wind-project)
 
----
-2. [Practical aspects of absolute permeability finding for the lattice Boltzmann method and pore network modeling](https://www.sciencedirect.com/science/article/abs/pii/S0378437121005227)
+2. **[Practical aspects of absolute permeability finding for the lattice Boltzmann method and pore network modeling](https://www.sciencedirect.com/science/article/abs/pii/S0378437121005227)**
 
 The paper investigates practical aspects of two methods for estimating absolute permeability: lattice Boltzmann method (LBM) and pore network modeling. Some of the image processing processes were done using Python libraries.
 
