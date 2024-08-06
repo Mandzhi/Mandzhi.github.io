@@ -45,7 +45,7 @@ The paper investigates practical aspects of two methods for estimating absolute 
 ---
 
 ### Other files
-1. [An example of the task I wrote for the Shift + Enter virtual internship (in Russian)](https://github.com/simonyelisey/Shift-Enter/blob/main/Problems.docx.pdf)
-2. [One of the Notion files I created with useful resources on how to prepare for hackathons (in Russian)](https://roasted-iron-2d2.notion.site/Hack-Change-2022-by-Changellenge-7b2f2c3d00774ec8b8f786bbe505b92a)
+- [An example of the task I wrote for the Shift + Enter virtual internship (in Russian)](https://github.com/simonyelisey/Shift-Enter/blob/main/Problems.docx.pdf)
+- [One of the Notion files I created with useful resources on how to prepare for hackathons (in Russian)](https://roasted-iron-2d2.notion.site/Hack-Change-2022-by-Changellenge-7b2f2c3d00774ec8b8f786bbe505b92a)
 
 ---
