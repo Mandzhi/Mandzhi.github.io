@@ -25,7 +25,7 @@ The paper investigates practical aspects of two methods for estimating absolute 
 
 #### More references
 - [My master thesis which was about the whole process of the digital core analysis](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2451532)
-- [Medium post where I explained the basics of working with binary images](https://github.com/Mandzhi/Open-wind-project)
+- [Medium post where I explained the basics of working with binary images](https://medium.com/towards-artificial-intelligence/the-brief-history-of-binary-images-c4dacf40ce95)
   
 ---
 
