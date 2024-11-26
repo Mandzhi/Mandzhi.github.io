@@ -41,6 +41,7 @@ The paper investigates practical aspects of two methods for estimating absolute 
 - [Get Things Done: Five Actionable Steps to Amplify Your Productivity](https://code.likeagirl.io/get-things-done-five-actionable-steps-to-amplify-your-productivity-9ec628499677)
 - [How to Work Remotely and Not Feel Isolated](https://medium.com/towards-data-science/how-to-work-remotely-and-not-feel-isolated-aa0638e9bfc0)
 - [Five Challenges You Might Face While Searching for Your Next Remote Job](https://medium.com/code-like-a-girl/five-challenges-you-might-face-while-searching-for-your-next-remote-job-8a4ade626f57)
+- [Why STEM Is Important for Any Data Scientist](https://medium.com/towards-data-science/why-stem-is-important-for-any-data-scientist-45b8ec1d445d)
 
 ---
 
