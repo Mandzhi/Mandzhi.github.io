@@ -29,9 +29,10 @@ The paper investigates practical aspects of two methods for estimating absolute 
   
 ---
 
-### Dashboards
+### Dashboards and visualization
 1. [Matplotlib version of the FIFA World Cup dashboard](https://medium.com/geekculture/how-to-customize-infographics-in-python-tips-and-tricks-e1818aac180f)
 2. [Plotly version of the FIFA World Cup dashboard](https://medium.com/towards-data-science/creating-a-better-dashboard-myth-or-reality-3d355b03e52c)
+3. [How to draw diagrams using Mermaid.js](https://medium.com/ai-advances/how-to-draw-diagrams-using-mermaid-js-97c41f814bbd)
 
 ---
 
