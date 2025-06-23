@@ -31,7 +31,7 @@ The paper investigates practical aspects of two methods for estimating absolute 
 
 ### Dashboards and visualization
 1. [Matplotlib version of the FIFA World Cup dashboard](https://medium.com/geekculture/how-to-customize-infographics-in-python-tips-and-tricks-e1818aac180f)
-2. [Plotly version of the FIFA World Cup dashboard](https://medium.com/towards-data-science/creating-a-better-dashboard-myth-or-reality-3d355b03e52c)
+2. [Plotly version of the FIFA World Cup dashboard](https://towardsdatascience.com/creating-a-better-dashboard-myth-or-reality-3d355b03e52c)
 3. [How to draw diagrams using Mermaid.js](https://medium.com/ai-advances/how-to-draw-diagrams-using-mermaid-js-97c41f814bbd)
 
 ---
@@ -40,9 +40,10 @@ The paper investigates practical aspects of two methods for estimating absolute 
 
 - [How to Effectively Structure Data Science Projects (PSW tool)](https://towardsdatascience.com/how-to-effectively-structure-data-science-projects-85f717e65c75)
 - [Get Things Done: Five Actionable Steps to Amplify Your Productivity](https://code.likeagirl.io/get-things-done-five-actionable-steps-to-amplify-your-productivity-9ec628499677)
-- [How to Work Remotely and Not Feel Isolated](https://medium.com/towards-data-science/how-to-work-remotely-and-not-feel-isolated-aa0638e9bfc0)
+- [How to Work Remotely and Not Feel Isolated](https://towardsdatascience.com/how-to-work-remotely-and-not-feel-isolated-aa0638e9bfc0)
 - [Five Challenges You Might Face While Searching for Your Next Remote Job](https://medium.com/code-like-a-girl/five-challenges-you-might-face-while-searching-for-your-next-remote-job-8a4ade626f57)
-- [Why STEM Is Important for Any Data Scientist](https://medium.com/towards-data-science/why-stem-is-important-for-any-data-scientist-45b8ec1d445d)
+- [Why STEM Is Important for Any Data Scientist](https://towardsdatascience.com/why-stem-is-important-for-any-data-scientist-45b8ec1d445d)
+- [Apply Sphinx’s Functionality to Create Documentation for Your Next Data Science Project](https://towardsdatascience.com/apply-sphinxs-functionality-to-create-documentation-for-your-next-data-science-project)
 
 ---
 
