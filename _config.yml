@@ -6,8 +6,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   Open to DA/DS, Tech Writer or Research positions
   <br><br>
   My profiles:
+  <br>
   - <a href="https://www.linkedin.com/in/manrad/">LinkedIn</a>
+  <br>
   - <a href="https://scholar.google.com/citations?hl=en&user=FFmoui4AAAAJ">Google Scholar</a>
+  <br>
   - <a href="https://www.researchgate.net/profile/Radmila-Mandzhieva-2">Research Gate</a>
 
 remote_theme: pages-themes/minimal@v0.2.0
