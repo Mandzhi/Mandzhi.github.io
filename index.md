@@ -1,41 +1,42 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Research Articles
+## Research Articles
 
 1. [Data-driven applications for wind energy analysis and prediction: The case of “La Haute Borne” wind farm](https://www.sciencedirect.com/science/article/pii/S2772508122000382)
-<img src="images/image1.jpg?raw=true"/>
+   <img src="images/image1.jpg?raw=true"/>
 
   This paper investigates several methods of predicting wind energy generation for the onshore “La Haute Borne” wind farm. The hybrid model has been developed to get short-term power forecasts using both historical in-situ measurements available from ENGIE and MERRA-2 global reanalysis dataset.
 
   It was shown that adding three extra meteorological parameters – pressure, humidity, and temperature – allowed to reach a higher accuracy compared with cases when weather parameters were completely ignored or used partially. Results also showed the combined CNN-LSTM model reached higher accuracy for both 12- and 24-h forecasts and performed faster than an ordinary LSTM network. A significant advantage of both methods deals with their light structure which allows running models on the Central Processing Unit (CPU).
 
-  **Related materials**
+  ### Related materials
 
   - [Practical Tips for Improving EDA](https://towardsdatascience.com/practical-tips-for-improving-exploratory-data-analysis-1c43b3484577/): a short guide on TDS of making EDA easier.
   - [GitHub repo with a code](https://github.com/Mandzhi/Open-wind-project)
 
-1. [Practical aspects of absolute permeability finding for the lattice Boltzmann method and pore network modeling](https://www.sciencedirect.com/science/article/abs/pii/S0378437121005227)
-<img src="iimages/image2.jpg?raw=true"/>
+2. [Practical aspects of absolute permeability finding for the lattice Boltzmann method and pore network modeling](https://www.sciencedirect.com/science/article/abs/pii/S0378437121005227)
+  <img src="images/image2.jpg?raw=true"/>
 
   The paper discusses practical aspects of two widely applied techniques for absolute permeability estimation, lattice Boltzmann method (LBM) and pore network modeling. Both approaches analyzed three sandstone and one carbonate samples with different pore structures from the open database of Imperial College London.
 
   First, a direct pore-scale modeling via LBM approach was built based on the single relaxation time concept. Later on, pore networks were extracted by using the fast and efficient SNOW algorithm which could be considered as an improved version of a well-known watershed segmentation approach. The paper does not only compare the accuracy of two methods, but rather summarize in which cases a direct pore-scale modeling can be substituted by the simplified pore network approach.
 
-  **Related materials**
+  ### Related materials
 
   - [My master's thesis about digital core analysis](https://nva.sikt.no/registration/0198e844a560-ad0e4117-7319-4464-9dd9-60950f8f1d36): in this thesis, the whole workflow of digital core analysis from image study to overlook of pore network models had been performed.
   - [The Brief History of Binary Images](https://medium.com/towards-artificial-intelligence/the-brief-history-of-binary-images-c4dacf40ce95): this post explains how to work with binary images using Python, in particular with PoreSpy.
 
 ---
 
-### Dashboards {#dashboards}
+## Dashboards
 
 - [How to Customize Infographics in Python: Tips and Tricks](https://medium.com/geekculture/how-to-customize-infographics-in-python-tips-and-tricks-e1818aac180f): this tutorial demonstrates how to best visualize data using different types of charts from Matplotlib for the FIFA World Cup dataset.
 - [Creating a Better Dashboard – Myth or Reality?](https://towardsdatascience.com/creating-a-better-dashboard-myth-or-reality-3d355b03e52c/): this post deals with the same FIFA World Cup dataset, but plots are built with a help of Plotly.
+---
 
-### My popular Medium and TDS posts {#examples}
+## My popular Medium and TDS posts
 
 My 3 Medium posts were chosen for the Boost programs. It allowed to increase the total views up to 40k.
 
@@ -47,7 +48,7 @@ My 3 Medium posts were chosen for the Boost programs. It allowed to increase the
 
 ---
 
-### Other writing samples {#writing}
+## Other writing samples
 
 1. While working @ Changellenge >> I created engaging tasks with solutions for a virtual IT internship Shift + Enter for students who want to enter IT in non-IT fields (banking, pharmaceuticals, telecom, FMCG, etc.). Below examples of these tasks are given:
 
