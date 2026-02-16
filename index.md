@@ -2,7 +2,7 @@
 
 ---
 
-### Research Articles {#research}
+### Research Articles
 
 1. [Data-driven applications for wind energy analysis and prediction: The case of “La Haute Borne” wind farm](https://www.sciencedirect.com/science/article/pii/S2772508122000382)
 <img src="images/image1.jpg?raw=true"/>
@@ -11,7 +11,7 @@
 
   It was shown that adding three extra meteorological parameters – pressure, humidity, and temperature – allowed to reach a higher accuracy compared with cases when weather parameters were completely ignored or used partially. Results also showed the combined CNN-LSTM model reached higher accuracy for both 12- and 24-h forecasts and performed faster than an ordinary LSTM network. A significant advantage of both methods deals with their light structure which allows running models on the Central Processing Unit (CPU).
 
-  #### Related materials {#extra-one}
+  **Related materials**
 
   - [Practical Tips for Improving EDA](https://towardsdatascience.com/practical-tips-for-improving-exploratory-data-analysis-1c43b3484577/): a short guide on TDS of making EDA easier.
   - [GitHub repo with a code](https://github.com/Mandzhi/Open-wind-project)
@@ -23,7 +23,7 @@
 
   First, a direct pore-scale modeling via LBM approach was built based on the single relaxation time concept. Later on, pore networks were extracted by using the fast and efficient SNOW algorithm which could be considered as an improved version of a well-known watershed segmentation approach. The paper does not only compare the accuracy of two methods, but rather summarize in which cases a direct pore-scale modeling can be substituted by the simplified pore network approach.
 
-  #### Related materials {#extra-two}
+  **Related materials**
 
   - [My master's thesis about digital core analysis](https://nva.sikt.no/registration/0198e844a560-ad0e4117-7319-4464-9dd9-60950f8f1d36): in this thesis, the whole workflow of digital core analysis from image study to overlook of pore network models had been performed.
   - [The Brief History of Binary Images](https://medium.com/towards-artificial-intelligence/the-brief-history-of-binary-images-c4dacf40ce95): this post explains how to work with binary images using Python, in particular with PoreSpy.
