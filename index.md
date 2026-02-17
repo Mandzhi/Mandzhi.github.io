@@ -52,6 +52,6 @@ My 3 Medium posts were chosen for the Boost programs. It allowed to increase the
     - [Example 1 for Python developer (in Russian)](https://github.com/GorsheninNikolay/SHIFT-ENTER-KPMG/blob/main/CL_Shift_Enter_KPMG_Python_developer_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx.pdf)
     - [Example 2 for Data Scientist (in Russian)](https://github.com/simonyelisey/Shift-Enter/blob/main/Problems.docx.pdf)
 
-2. I also cerated a Notion Guide for the Hackathon's participants. The goal was to create a cool guide for hackathon participants so they wouldn't forget important events and deadlines.
+2. I also wrote a Notion guide for students who participated in the Hackathon. The goal was to create a single tutorial for all participants, so they wouldn't forget important deadlines and Q&A sessions with mentors.
 
     - [Link to the guide](https://roasted-iron-2d2.notion.site/Hack-Change-2022-by-Changellenge-7b2f2c3d00774ec8b8f786bbe505b92a)
