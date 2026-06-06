@@ -42,6 +42,7 @@ My 3 Medium posts were chosen for the Boost programs. It allowed to increase the
 - [How to draw diagrams using Mermaid.js (boosted)](https://ai.gopubby.com/how-to-draw-diagrams-using-mermaid-js-97c41f814bbd): a step-by-step tutorial to creating better flowcharts and block schemes using Mermaid.js.
 - [Apply Sphinx’s Functionality to Create Documentation for Your Next Data Science Project](https://towardsdatascience.com/apply-sphinxs-functionality-to-create-documentation-for-your-next-data-science-project/): the post contains three most impressive functionalities of Sphinx’s tool, which can automatically generate documentation for Python modules.
 - [Get Things Done: Five Actionable Steps to Amplify Your Productivity (boosted)](https://code.likeagirl.io/get-things-done-five-actionable-steps-to-amplify-your-productivity-9ec628499677): a post with few simple (yet powerful!) rules to be more productive at work, regardless of whether your projects are related to data science or not.
+- [Beyond the Model: Why Data Scientists Must Embrace APIs and API Documentation](https://towardsdatascience.com/beyond-the-model-why-data-scientists-must-embrace-apis-and-api-documentation/): this guide will help to unlock the power of API for data-driven solutions.
 
 ---
 
