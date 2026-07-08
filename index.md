@@ -21,7 +21,7 @@
 
    **Related materials**
 
-   - [My master's thesis about digital core analysis](https://nva.sikt.no/registration/0198e844a560-ad0e4117-7319-4464-9dd9-60950f8f1d36): in this thesis, the whole workflow of digital core analysis from image study to overlook of pore network models had been performed.
+   - [My master's thesis about digital core analysis](https://hdl.handle.net/11250/2451532): in this thesis, the whole workflow of digital core analysis from image study to overlook of pore network models had been performed.
    - [The Brief History of Binary Images](https://medium.com/towards-artificial-intelligence/the-brief-history-of-binary-images-c4dacf40ce95): this post explains how to work with binary images using Python, in particular with PoreSpy.
 
 ---
